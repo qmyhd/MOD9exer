@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: your_package
+Version: 0.1
+Summary: A simple demonstration package
+Home-page: https://github.com/qmyhd/MOD9exer
+Author: Qais Youssef
+Author-email: qmy6cv@virginia.edu
+License: MIT
+License-File: LICENSE
